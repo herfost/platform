@@ -11,6 +11,9 @@
 ＼二)
 ```
 
+Pagina: https://herfost.github.io/platform
+Tutorial modifiche: [tutorial.mkv](./assets/tutorial.mkv)
+
 ## Deployment
 ```sh
 npm run build
